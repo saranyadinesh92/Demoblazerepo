@@ -1,0 +1,48 @@
+{
+"signUp":
+{
+    "username":"test20261110F",
+    "password":"testuser"
+
+},
+"validUser":
+{
+    "username":"test20261110A",
+    "password":"testuser"
+},
+"invalidUsername":
+
+{
+    "username": "testwrong",
+    "password": "testuser"
+},
+
+"invalidPassword":
+
+{
+    "username": "test20261110A",
+    "password": "testwrong"
+},
+
+"bothInvalid":
+{
+    "username": "testwrong",
+    "password": "testwrong"
+},
+"purchaseDetails":
+{
+    "name":"Test User",
+    "country":"India",
+    "city":"Kochi",
+    "card":"12345678901234566",
+    "month":"November",
+    "year":"2027"
+
+
+},
+"products": {
+    "phone": "Samsung galaxy s6",
+    "monitor": "Apple monitor 24"
+}
+
+}
